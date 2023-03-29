@@ -38,3 +38,5 @@ FA -> financial analysis
 fxfm -> fx rate forecast model 
 
 fxfc-> fx forecasts
+
+read -> most read stories
