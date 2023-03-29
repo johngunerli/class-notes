@@ -40,3 +40,38 @@ fxfm -> fx rate forecast model
 fxfc-> fx forecasts
 
 read -> most read stories
+
+
+
+srch -> fixed income search 
+bi budg -> us federal budget bloomberg intelligence 
+
+debt -> sovereign debt ownership
+
+cast -> capital structure
+
+yas -> yield and spread analysis
+wb -> world bond markets 
+
+wcdm -> world countries debt monitor
+
+ratd -> ratings definitions
+
+csdr -> soverign ratings 
+
+crpr -> credit profile
+sovr -> soverign cds monitor 
+
+ifmo -> inflation monitor 
+gew -> global economy watch 
+ilbe -> inflation breakeven rates 
+
+gc3d -> graph curve surface
+eqs-> equity screening 
+ipo -> equity offerings 
+wm -> world equity markets
+wei -> world equity indices 
+memb -> member weightings 
+evts -> events calendar 
+nh -> news feed 
+eeg -> earning estimates graph 
