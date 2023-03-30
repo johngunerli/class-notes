@@ -75,3 +75,16 @@ memb -> member weightings
 evts -> events calendar 
 nh -> news feed 
 eeg -> earning estimates graph 
+
+
+
+
+Completion certificate:
+
+
+<img width="1618" alt="Screenshot 2023-03-30 at 3 25 14 PM" src="https://user-images.githubusercontent.com/33205097/228942697-b0d6b51b-4c7c-415c-81cd-7bf68fb7f30f.png">
+
+
+
+
+
